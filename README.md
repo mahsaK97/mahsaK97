@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Suha 👋
 
-<!--
-**mahsaK97/mahsaK97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm passionate about software development and continuously improving my programming skills by building real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+
+- JavaScript
+- C++
+- Data Structures & Algorithms
+- ASP.NET Core
+
+## 💻 Languages & Technologies
+
+- C
+- C++
+- Python
+- JavaScript
+- HTML
+- CSS
+- MySQL
+
+## 📂 Featured Projects
+
+- 📋 To-Do List (JavaScript)
+- 📁 File Management System (C)
+- 🧮 Calculator
+- 🌐 Web Projects
+
+## 🎯 Goals
+
+- Build high-quality software projects
+- Contribute to open source
+- Become a Full Stack Developer
+- Pursue a Master's degree in Software Engineering
+
+## 📫 Contact
+
+- Email: mahsa.keshtpur.1005@gmail.com
+- LinkedIn: (Coming Soon)
